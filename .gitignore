@@ -1,0 +1,11 @@
+out/
+build/
+*.iml
+*.ipr
+.idea/
+.gradle/
+*.iws
+.DS_Store
+subjects.txt
+setgraalvm.sh
+setjava.sh

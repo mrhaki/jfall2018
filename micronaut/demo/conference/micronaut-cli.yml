@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: jfall
+---
+testFramework: junit
+sourceLanguage: java

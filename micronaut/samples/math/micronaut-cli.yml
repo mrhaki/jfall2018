@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: jfall
+---
+testFramework: junit
+sourceLanguage: java
